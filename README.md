@@ -3,11 +3,13 @@ Mailchimp-Integration-with-Salesforce:
 This repository contains a solution for integrating Salesforce with the Mailchimp. The solution allows Salesforce users to send email to the Mailchimp contacts from Salesforce by creating their own template.
 
 
+
 Pre-requisites:
 
 1. Before using this solution, you need to have an API key and listId from Mailchimp (signup on https://login.mailchimp.com to get API key and listId).
 2. A Salesforce account with access to the Contact object.
 3. A Mailchimp account with the API access enabled.
+
 
 
 Features:
